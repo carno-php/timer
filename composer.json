@@ -1,0 +1,14 @@
+{
+  "name": "carno-php/timer",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Carno\\Timer\\": "src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}
