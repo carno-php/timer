@@ -1,6 +1,9 @@
 {
   "name": "carno-php/timer",
   "license": "MIT",
+  "require": {
+    "ext-swoole": "^1.8"
+  },
   "autoload": {
     "psr-4": {
       "Carno\\Timer\\": "src"
