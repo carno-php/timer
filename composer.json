@@ -2,7 +2,10 @@
   "name": "carno-php/timer",
   "license": "MIT",
   "require": {
-    "ext-swoole": ">=1.8"
+    "php": "^7.1"
+  },
+  "suggest": {
+    "ext-swoole": "Timer by swoole"
   },
   "autoload": {
     "psr-4": {
